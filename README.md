@@ -44,3 +44,6 @@ To Build the app, go to Build>Make Project (or alternatively press the Make Proj
 
 If the app was built succesfully, you can test it by running it on either a real device or an emulated one by going to Run>Run 'app' or presing the Run icon in the toolbar.
 
+<b>License</b>
+
+This project is currently licensed under the GNU General Public License v3. A copy of LICENSE is to be present along with the source code. To obtain the software under a different license, please contact FOSSASIA.
