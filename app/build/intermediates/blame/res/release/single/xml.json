@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/release/xml/widget_info.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/release/xml/widget_info_take_photo.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/xml/widget_info_take_photo.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/release/xml/shortcuts.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/xml/shortcuts.xml"
+    }
+]

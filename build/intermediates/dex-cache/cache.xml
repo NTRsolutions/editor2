@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/twitter4j-media-support-3.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb1f8304e38c7343f7861b92215676d10981fd3c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/twitter4j-media-support-3.0.5_58628d6e95d22008cb8e2c366d743e8c24c0aef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.23.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.23.0_c2872d76fa833da6e98ddba18b01ce7f2369c0e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_9f7282d2bcf8d9327631321d21fd504ce624a0fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/acra-4.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/acra-4.4.0_146331c30037cd1a2edd50faaebb310b06b6ef75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_1a462c83b76c10e78026a635630f406183167786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.3.1_4b2839cc8f9dbcaee2ba0fd708a2d2f66c38f5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b07eda0e56a893773958f3ac1a3ffd77612a8d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/jdom-1.1.1-android-fork.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="936e2a877cacca2108b619bbc718d1550299b106">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/jdom-1.1.1-android-fork_00c4daf3600e418f2e74da3a8cf6d282704c4c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-webdav/2.12.6/c90303d30d2911752587e31700253a1c41602e10/jackrabbit-webdav-2.12.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c90303d30d2911752587e31700253a1c41602e10">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackrabbit-webdav-2.12.6_6146a56f5c455f5075abdea2c9fd23631bbbf708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.5_928c76425d8482aa20b418f7d6d7ae37a62804e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/io.realm/realm-android-library/3.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07d6ee506b0d643cac58d5f1a514a802d359dc87">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-3.3.1_2f993fe9302bf051acadce3f9ca734d367141dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_09059fb90b991de503ad782e126565256afc36a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/scribe-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df2be575bd6a6dcc0db8edb02912877562bf953a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/scribe-1.2.3_1ad53771b2a47df08901fd97f6f72cf79bd2b1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1ad14ae81c1447f1694d6fa3aedcac01d12a374f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.uphyca/stetho_realm/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d668d438bf1a032b186b83151f4da16f32c498b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.uphyca-stetho_realm-2.0.0_2f62862de2695cb6efd91696150655365255e9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfbe308a4124d7ff2c1e731280f93d2364f0f75b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/xmpcore-5.1.2_c9e2dac1a495f7dacd3961653b8e762eb643ef04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_5f171aaec858be36c08ff19061a75638ff3fb2ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_450d85ad0e114e47b9e86978c2b8f7a2b96bf8aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.13/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.13_702de22e86799405c720c7fd9074a007e1442bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e854b595785e5989b76e2f106768b131297d046">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.4_aaac20afb38b3e5343f614b5a1fb25313af21155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_2a67863b0cff4a012bf4e9766fc40ddccffc6438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.mikepenz/community-material-typeface/1.5.54.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc36bd2d0d62ca1558695905005027522933f7f1">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-community-material-typeface-1.5.54.2_f78a86f2a2a3059252ed6a22dc9c73e000a512ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/osmdroid-android-3.0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4992d81fdbbb2065483d2c9ea063f4a539e7309d">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/osmdroid-android-3.0.8_020f79f7cc73986918a9e5ff449ccf413a39aebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="063e8091cd19fe30677bce05fa3bc970212f3a9a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.psdev.licensesdialog-licensesdialog-1.8.0_1b57b7f021e9ef05b6e5b067261ba7e9ea9697a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/CWAC-Bus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ca9885017d57accad13768b8318543482013ade">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/CWAC-Bus_16ff3371ff3e10df5cc8cd4bd2a317fbc4967133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.4/b080da16832c1240acbf3f59f338a8e713705c0c/slf4j-api-1.7.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b080da16832c1240acbf3f59f338a8e713705c0c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.4_906dd2b84a8a9669d6e61ed86795d672c42b3cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_411650defbceb64b5506676e140a250417657125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_87dec074ad77304e9e43855b216d50b4aa614197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/uz.shift/colorpicker/0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a710fe3bb05486c714e7743b3b2e9e3f5cea9cd1">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/uz.shift-colorpicker-0.5_ea0e005a37c95d7a02d2e60f53de1b917832eb1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_023d3f3afb551cdf12e544be9a55c6eca21c7841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.17/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.17_81b50a8f495ec3b3bb674b2036046233ec7800c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.eclipsesource.minimal-json/minimal-json/0.9.1/9b409b88e38b11519ce3334cbcdda361462ac72d/minimal-json-0.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b409b88e38b11519ce3334cbcdda361462ac72d">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/minimal-json-0.9.1_3de9185b5cff993af0152d072b627c14b06af34e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/commons-httpclient/commons-httpclient/3.1/964cd74171f427720480efdec40a7c7f6e58426a/commons-httpclient-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-httpclient-3.1_d75fd32d9028a5010b8cde3b50baf7113b91bdfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="684b132d394d746b6a5eeddb384aadd775ea5bdc">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-3.0.0_27c1134ca941dc671f1d83aec013a63b8cef28a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_8eeb5370cacdaa77a7acfdc3210ca99227fd4651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_69e4160da959fafdc5bd2ac1fcaf626f19ffff7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/uk.co.jasonfry.android.tools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="242a6cdf1be5650300ef50b8c601dc30b3165383">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/uk.co.jasonfry.android.tools_fb169c0ce46cb69444893e4b639c2356d9c707f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/metadata-extractor-2.9.1_a590444e029974c90e7d8b5c92a24c0c60e18278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_7e9d3c7d1c723106fb60bf50fa575808383c6127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eace26bfd08119044e19e9fc0f9ae1bdffac83ed">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.7_33288cde95d49fe0d62a0346b9ce23a0f6afe2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_40e0a6712db100d669805c1d7ef27aa5229985f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bbd470f524833532e041b110abe9e3d514d63eb">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.7_861b46b6bf267b0fa8a3a8ba6b68c1c1b8e12969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/joooidapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f32bff332fd326fdcfaf5d0440781b3c2035bf3">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/joooidapi_239eff19a935c98dfc0f2f84439397bdb0f0acf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.box/box-android-sdk/4.0.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e246809ca3f958cff18f6c352d6dc17debc64753">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.box-box-android-sdk-4.0.8_b16a54b1820993f4bdf9fe689e4d744cace18f2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_795eb2c6813071754548e706319db64948d277d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_55a98afb7a716d52c6e5a51415c57fa344cd4465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c57d029709842387c20742b9659f20dd153d5a6">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3e088a16fe2397fb5d611c73103902a9a516149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b3e203eac3707863ea1ec73c5a558d0bccb7e05">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-3.0.0_ce20cbefbe9f5664c08b1030d3ddb3a3fc2dbd2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.6.0_740dc26abecc3b0fa1551d0a3f26156a523e409d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_e3c819ec1ddaf8e350173cd342106c39aed657c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_fee981d34a07d054f9880bbf7f53e810a1bf0de2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.1_b62031b5263afdc01d86003ba3026d6a021b85ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho-okhttp3/1.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91d213f056515b6c839364717ae0f34799ed25b7">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.stetho-stetho-okhttp3-1.5.0_7071d32e8d871630dc1d4e2641df6e1d31636ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.2/397f4731a9f9b6eb1907e224911c77ea3aa27a8b/commons-codec-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.2_3445bac1c0cbf7046b364a4f92130563229ac867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_d16b89e4f1288da6760cc389a4ecf53147fd69ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.8_f54505f25781f4f8c03cc3cc3bd24202f3e499f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/twitter4j-core-3.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5999e1915b61b30c9fc40d5d1971906bb68aca6c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/twitter4j-core-3.0.5_f29e7f8368b0148a6620eb52825964d02050554c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/CWAC-Task.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c872647ce884ffc749dc3b68e2ab5cf2d67def75">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/CWAC-Task_16fedd23b1774616f893720a4f27cd53d77676f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.3.1_842da2d1ce69fc1bce1c79c200a5bf440ccd6a19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_668b512334cda38731db38f66560b2e0610f1e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.yalantis/ucrop/1.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d27a85b9b7774bb4aad8b319e8367865729686e">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-ucrop-1.5.0_96409d6143d5bbca7636799fe6b9c2ec833c23c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_5e2016771388cfd83147487aa2562bf6f9d12eda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.daksh/loglr/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af912a849e9ed149c9b7b0cc97068eac1b174e9f">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daksh-loglr-1.2.1_804080573036c8eb215f25e9b812430cf09293d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.2.7_48f28d6660929f2916af44d4653c23aa24407373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.github.deano2390/MaterialShowcaseView/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5df25893bd9dc52e46b78f132f2c3232a641c20e">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.deano2390-MaterialShowcaseView-1.1.0_f8d1fd3793a4af0ecf41444cfb1122be1754d42e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.4_1d0ba775de621674b807cd8d996d2fe1bb7d595e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.daksh/loglr/1.2.1/jars/libs/signpost-commonshttp4-1.2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30c3233f133b6ea0dec98c4f3c69a102ba095d10">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/signpost-commonshttp4-1.2.1.2_9c4d07ecca9aecabf22ecb028ac24c33f0641289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.6/2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5/parceler-api-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/parceler-api-1.1.6_4ff6014e65fd00dfcbc7a3f31be4be8069d92650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_60ce11d681f3dc2e9baa01ff42b6d2e1de2f48e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.4/b7c1efe9a78b315b6be624e6f6f944788c6be6c0/jcl-over-slf4j-1.7.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7c1efe9a78b315b6be624e6f6f944788c6be6c0">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcl-over-slf4j-1.7.4_f500c48e8e8e21eb4d4a77a3a5dafa5163dd8cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_8740fe0d3eea72fc5f0022076e6c610e258a9b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_53a4fda79f227a4b89c1fb25f88fe5399695e40c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho/1.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.stetho-stetho-1.5.0_b4884ea0995203a0189ed59bb59078ec13f5a414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_c819112cd21cbd03a352a6fc94291e1d196e700f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.14.3/71218d7dd9435e8b43e5ccf117bec37cb78fa2eb/twitter-text-1.14.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71218d7dd9435e8b43e5ccf117bec37cb78fa2eb">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.14.3_32a2aa0ea2fb0a5916c581848e54301cf64b89f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.mikepenz/google-material-typeface/2.2.0.3.original/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f635f53387085220f02014589f50b14d6efb3ec">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-google-material-typeface-2.2.0.3.original_aee8ec4d83c070bd0c81371a00536badc404bdbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_f6d85adc30dbea6529390a3e89d51de06bbe222a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_7ca5b0106604a9e9add75c963532534af645c9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.mikepenz/fontawesome-typeface/4.6.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac8ac3b58944cfb7f0f3da5852d1730320a165e1">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fontawesome-typeface-4.6.0.1_2eda21ca1e0856442a5aed68f008411a6d40ec3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.amlcurran.showcaseview-library-5.4.3_c6c81839317bf04c2326b1e3ee179e57f4587968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_11de68aec725b6b79ebb30db640a553bffbc933a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.daksh/loglr/1.2.1/jars/libs/signpost-core-1.2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42583285efd52283a7ab328248b4d25ee605a892">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/signpost-core-1.2.1.2_cd211440a0bbb2bfa2090ead14ebaf1653c5edf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.turingtechnologies.materialscrollbar/lib/10.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc1db3e3fe1f7c141a3df5b22bc96f8e53ac43a5">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.turingtechnologies.materialscrollbar-lib-10.0.3_a333bfe978aee09a4495464cb113878ab4b531d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.3.1/bacd2ccd9a7f55c4205e02ad4d9183813d0bdcc3/realm-annotations-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bacd2ccd9a7f55c4205e02ad4d9183813d0bdcc3">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-3.3.1_a3a134d8c84bf7c8ad9df98e67522dc532a56319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.github.nextcloud/android-library/1.0.21/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4a58eca07f18f166a0c73e6f8fefe141ffa6df1">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nextcloud-android-library-1.0.21_e73f508abcedfafd7f7e825f5c4321e9338e0f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/httpmime-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.1_aa8b7a382840295d17c9b019ab16b472d204d8fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.tumblr/jumblr/0.0.11/cc28f45f445b021389290bfadac0f8f8299f4371/jumblr-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc28f45f445b021389290bfadac0f8f8299f4371">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/jumblr-0.0.11_8369a821c0fbe0062bd155d27ab8f95ef727f6b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.6.0_675a63466a138b63a4fdcf550aa20dffef49b49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2640be449e78c2947f08c4f8fdc596faf6b450da">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-3.0.0_c49a8632a77826a26edab303e573fba49546e673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_4336354559e9d621965619b2317dbcca4f892d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_d5eb0424e56f450068fe9f736d7f3d3e93627f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/jtwitter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0c9bdfab7fc4f55160dd8b4fb4c80d7bc0570c2">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/jtwitter_8d8c0b76347ca8024ae47f2e06fe02836149ddad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4373c433748652e9e7c20770f73ac14d852505dd">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-3.0.0_6f244e3d9e7592843b7d08cec9891bf13965b245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_b634e6bf5416ff1bc77dcbbd1ec462b8a50e35eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/CWAC-AdapterWrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30e41d7c64a9177c70f29343f136d25a442201ac">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/CWAC-AdapterWrapper_0f165ca13881a5cf18fd315bc3f232809a533940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_dfd06eb7d625ab54e45012ced9732eec7e71d9a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_19cbbbfc20338e173dfbb4958723e77277b46738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/tagsoup-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5584627487e984c03456266d3f8802eb85a9ce97">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/tagsoup-1.2.1_858a4a5ae72496ff36b019b5f381c7a7d36f73c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.2_ca642f7f1d0be3d702bd3670b2ea775e1946a98b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_7c2a727ac1813a2eba1111f1690d94a670ed4804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/android-rss-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef8429d74ef5842b8d12db7eee36ded78c384265">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-rss-1.0.0_87fc031036ab2fcde1bcf61fdb4dfcc4f7948f9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_a33653d75cab6910d827b722c9942d1c0e63f080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f156a33c2991564977dc8514b709d8cbd1d43adc">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r1.5.7_29134c0a91a889c06b8bfa8877b95abe25ad2cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/flickrj-android-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/flickrj-android-2.1.0_9fa6bb3a48b2f3d5a200961dd3586696756eaf98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_8ffbe57a3fbada37c6ce8e771517e03c7a023ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.17/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.17_e9693dad99e5061a271677833ece3e0c24d1efaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.1_fc3abe9bf46074e942ac2b8a128bd258159eb4cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_48c83aefda01598dbb803a26e418e71e5f342fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shubhamjain/Downloads/phimpme-android-development/app/libs/dropbox-android-sdk-1.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.6.3_05cda0e8d17615b5e3048ca4a1fb50a5fdfd93d6/classes.dex" />
+    </item>
+
+</items>

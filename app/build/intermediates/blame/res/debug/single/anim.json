@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.yalantis/ucrop/1.5.0/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/tw__accelerate_cubic.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/3.0.0/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/tw__slide_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/3.0.0/res/anim/tw__slide_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/menushow.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/menushow.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/menuhide.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/menuhide.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/slide_fade_photos.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/slide_fade_photos.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/in_bottom_to_top.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/in_bottom_to_top.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.yalantis/ucrop/1.5.0/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/out_bottom_to_top.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/out_bottom_to_top.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_bottom.xml"
+    }
+]

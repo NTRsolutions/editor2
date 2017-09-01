@@ -1,0 +1,7 @@
+#Fri Sep 01 10:11:35 IST 2017
+base.0=/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfbe308a4124d7ff2c1e731280f93d2364f0f75b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3e088a16fe2397fb5d611c73103902a9a516149/classes.dex
+base.1=/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3e088a16fe2397fb5d611c73103902a9a516149
+file.0=/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfbe308a4124d7ff2c1e731280f93d2364f0f75b/classes.dex

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_more_horiz_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/flash_on.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/flash_on.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_burst_mode_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/earth.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/earth.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blue_thumb_default.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/blue_thumb_default.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/red_thumb_default.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/red_thumb_default.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_touch_app_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/switch_camera.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/switch_camera.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_take_photo.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/auto_stabilise_icon.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/auto_stabilise_icon.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blue_thumb_pressed.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/blue_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_camera_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_face_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_hdr_on_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_power_settings_new_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/green_thumb_pressed.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/green_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_videocam_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/trash.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/trash.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/flash_auto.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/flash_auto.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_exposure_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_save_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/earth_off.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/earth_off.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/green_thumb_default.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/green_thumb_default.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/flash_off.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/flash_off.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_text_format_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/red_thumb_pressed.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/red_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/raw_icon.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/raw_icon.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_timer_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photo_size_select_large_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_help_outline_white_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic_red_48dp.png",
+        "source": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/res/drawable-xxhdpi/ic_mic_red_48dp.png"
+    }
+]

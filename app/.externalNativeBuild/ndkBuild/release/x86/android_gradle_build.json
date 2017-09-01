@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Android.mk",
+    "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/shubhamjain/Downloads/ndk/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "nativeimageprocessing-release-x86": {
+      "buildCommand": "/Users/shubhamjain/Downloads/ndk/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/lib /Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/obj/local/x86/libnativeimageprocessing.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "nativeimageprocessing",
+      "files": [
+        {
+          "src": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/colour_space.cpp",
+          "flags": "\"-gcc-toolchain\" \"/Users/shubhamjain/Downloads/ndk/toolchains/x86-4.9/prebuilt/darwin-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"/Users/shubhamjain/Downloads/ndk/platforms/android-17/arch-x86\""
+        },
+        {
+          "src": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/enhance.cpp",
+          "flags": "\"-gcc-toolchain\" \"/Users/shubhamjain/Downloads/ndk/toolchains/x86-4.9/prebuilt/darwin-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"/Users/shubhamjain/Downloads/ndk/platforms/android-17/arch-x86\""
+        },
+        {
+          "src": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/filters.cpp",
+          "flags": "\"-gcc-toolchain\" \"/Users/shubhamjain/Downloads/ndk/toolchains/x86-4.9/prebuilt/darwin-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"/Users/shubhamjain/Downloads/ndk/platforms/android-17/arch-x86\""
+        },
+        {
+          "src": "/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/main_processing.cpp",
+          "flags": "\"-gcc-toolchain\" \"/Users/shubhamjain/Downloads/ndk/toolchains/x86-4.9/prebuilt/darwin-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/Users/shubhamjain/Downloads/ndk/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/Users/shubhamjain/Downloads/phimpme-android-development/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"/Users/shubhamjain/Downloads/ndk/platforms/android-17/arch-x86\""
+        }
+      ],
+      "output": "/Users/shubhamjain/Downloads/phimpme-android-development/app/build/intermediates/ndkBuild/release/obj/local/x86/libnativeimageprocessing.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "/Users/shubhamjain/Downloads/ndk/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
